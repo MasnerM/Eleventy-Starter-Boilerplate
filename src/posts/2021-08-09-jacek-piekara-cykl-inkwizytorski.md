@@ -5,6 +5,10 @@ date: 2021-08-08T12:16:33.811Z
 ---
 ### Jacek Piekara - Cykl Inkwizytorski
 
+![](/assets/images/posts/ink.jpg)
+
+
+
 * Ja, inkwizytor. Sługa Boży
 * Ja, inkwizytor. Młot na czarownice
 * Ja, Inkwizytor. Miecz aniołów
