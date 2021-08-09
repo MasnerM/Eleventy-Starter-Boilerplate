@@ -11,7 +11,7 @@ date: 2021-08-09T10:29:24.053Z
 
 ### Nekroskop
 
-* 1986 Nekroskop 1: Nekroskop (Necroscope)
+* 1986 Nekroskop 1: Nekroskop (Necroscope) `mam`
 * 1988 Nekroskop 2: Wampiry (Necroscope II: Wamphyri!)
 * 1989 Nekroskop 3: Źródło (Necroscope III: The Source)
 * 1990 Nekroskop 4: Mowa umarłych (Necroscope IV: Deadspeak)
