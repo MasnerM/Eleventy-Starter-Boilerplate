@@ -5,6 +5,8 @@ date: 2021-08-09T12:06:14.197Z
 ---
 ## Warhammer Fantasy - Przygody Gotreka i Felixa
 
+![](/assets/images/posts/maxresdefault.jpg)
+
 ### Autorstwa Williama Kinga
 
 * Zabójca Trolli (Trollslayer)
