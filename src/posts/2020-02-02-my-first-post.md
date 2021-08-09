@@ -5,6 +5,8 @@ date: 2021-08-09T09:50:58.103Z
 ---
 # **Forgotten Realms**
 
+![](/assets/images/posts/649d97f8ea9cd30a7199ab41b97ef30d.gif)
+
 ### Legenda Drizzta
 
 * Ojczyzna
@@ -149,8 +151,6 @@ date: 2021-08-09T09:50:58.103Z
 * Krainy Tajemnic (red. Philip Athans)
 * Krainy Niesławy (red. Brian T. Thomsen, Robert J. King)
 * Krainy Wtajemniczeń (red. James Lowder)
-
-
 
 ### Inne
 
